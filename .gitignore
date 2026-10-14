@@ -1,0 +1,14 @@
+# Local PHP extensions and downloaded packages
+/phpext/
+
+# Editor settings
+.vscode/.studio/
+
+# Database credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.log
+.DS_Store
